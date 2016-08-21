@@ -1,9 +1,0 @@
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\bin\Release\Predator.exe
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\bin\Release\Predator.pdb
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\obj\x86\Release\Predator.Form1.resources
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\obj\x86\Release\Predator.Properties.Resources.resources
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\obj\x86\Release\GenerateResource.read.1.tlog
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\obj\x86\Release\GenerateResource.write.1.tlog
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\obj\x86\Release\Predator.exe
-C:\Users\UMKA\Documents\Visual Studio 2010\Projects\Predator\Predator\obj\x86\Release\Predator.pdb
